@@ -1,6 +1,6 @@
 # test02
 
-  LET'S GO.AROUND THE WORLD.
+  LET'S GO
 ***
 * git<br> 
 * git
